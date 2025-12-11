@@ -1,0 +1,49 @@
+{
+  "latestMatch": {
+    "date": "09.12.2025",
+    "home": "CRNI",
+    "away": "BELI",
+    "score": "11:8",
+    "stadium": "Cvrle",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png"
+  },
+
+  "nextMatch": {
+    "date": "16.12.2025",
+    "home": "BELI",
+    "away": "CRNI",
+    "stadium": "Cvrle",
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
+  },
+
+  "matchesByYear": {
+    "2025": [
+      {
+        "date": "09.12.2025",
+        "home": "CRNI",
+        "away": "BELI",
+        "score": "11:8",
+        "players": {
+          "CRNI": ["Šone", "Dule", "Zoki", "Nemanja", "Srdić"],
+          "BELI": ["Vladić", "Mića", "Miša", "Prošić", "Mare"]
+        }
+      },
+      {
+        "date": "02.12.2025",
+        "home": "BELI",
+        "away": "CRNI",
+        "score": "8:10",
+        "players": {
+          "CRNI": ["Šone", "Dule", "Srdić", "Nemanja", "Dača"],
+          "BELI": ["Prošić", "Vladić", "Mića", "Rale", "Pulen"]
+        }
+      }
+    ],
+
+    "2024": [
+
+    ]
+  }
+}
