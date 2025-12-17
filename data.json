@@ -1,18 +1,18 @@
 {
   "latestMatch": {
-    "date": "09.12.2025",
-    "home": "CRNI",
-    "away": "BELI",
-    "score": "11:8",
+    "date": "16.12.2025",
+    "home": "BELI",
+    "away": "CRNI",
+    "score": "9:6",
     "stadium": "Cvrle",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
     "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png"
   },
 
   "nextMatch": {
-    "date": "16.12.2025",
-    "home": "BELI",
-    "away": "CRNI",
+    "date": "23.12.2025",
+    "home": "CRNI",
+    "away": "BELI",
     "stadium": "Cvrle",
     "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png",
     "awayLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
@@ -20,6 +20,16 @@
 
   "matchesByYear": {
     "2025": [
+            {
+        "date": "16.12.2025",
+        "home": "BELI",
+        "away": "CRNI",
+        "score": "9:6",
+        "players": {
+          "BELI": ["Vladić", "Mića", "Rale", "Prošić", "Mare"],
+          "CRNI": ["Šone", "Dule", "Nemanja", "Srdić", "Mihailo"]
+        }
+      },
       {
         "date": "09.12.2025",
         "home": "CRNI",
