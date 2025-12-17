@@ -5,8 +5,8 @@
     "away": "CRNI",
     "score": "9:6",
     "stadium": "Cvrle",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
   },
 
   "nextMatch": {
@@ -14,8 +14,8 @@
     "home": "CRNI",
     "away": "BELI",
     "stadium": "Cvrle",
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/960px-Real_Madrid_CF.svg.png"
   },
 
   "matchesByYear": {
